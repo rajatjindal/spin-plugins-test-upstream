@@ -10,31 +10,31 @@
       "os": "linux",
       "arch": "amd64",
       "url": "https://s3.amazonaws.com/vdice-plugin-bucket/plugin/print-version-0.1.0-linux-amd64.tar.gz",
-      "sha256": "f544498a253636d3d5252624a3959c4f811f5c2f977098d87bd0712e492fe50a"
+      "sha256": "f84656bd178586f0c3c8a5a46f7bc6c5e99ec0a41ebe1f9bb8cb5c7167ff5eb2"
     },
     {
       "os": "linux",
       "arch": "aarch64",
       "url": "https://s3.amazonaws.com/vdice-plugin-bucket/plugin/print-version-0.1.0-linux-aarch64.tar.gz",
-      "sha256": "9d71c64008e1871a310a24a317ede305cb32555f37ca8536fe8a954c94145f45"
+      "sha256": "d6a78f1aec93463ffabe811c9a115b87c396a52c57c4f798c7efc4ea19a88dd1"
     },
     {
       "os": "macos",
       "arch": "aarch64",
       "url": "https://s3.amazonaws.com/vdice-plugin-bucket/plugin/print-version-0.1.0-macos-aarch64.tar.gz",
-      "sha256": "31caf227f3f270779fc03b75e7c603ab023dfc83386fe41ba9cb46ca6dc7dce4"
+      "sha256": "a529f202978ca2133fc4ab0a7ce76ea4f526257d57a6286c16a07a2da5607c70"
     },
     {
       "os": "macos",
       "arch": "amd64",
       "url": "https://s3.amazonaws.com/vdice-plugin-bucket/plugin/print-version-0.1.0-macos-amd64.tar.gz",
-      "sha256": "500020082956f8cd3522a8beee2447913b2aba5c4fc5d36985982cf86f33ca09"
+      "sha256": "2c1ad118178da7f7517505fff92645c476da95498553f65b7e6169a735da82cf"
     },
     {
       "os": "windows",
       "arch": "amd64",
       "url": "https://s3.amazonaws.com/vdice-plugin-bucket/plugin/print-version-0.1.0-windows-amd64.tar.gz",
-      "sha256": "af4a8bbd4b022718e7a8e0002b2b67dd0d6aa132e91f72cd57f018085514c6dc"
+      "sha256": "ea9997e5a188b8bb1fac6a4af89dd4e416b9cfcaba81c22cae8030ceae860cc0"
     }
   ]
 }
