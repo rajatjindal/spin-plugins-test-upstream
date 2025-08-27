@@ -9,32 +9,32 @@
     {
       "os": "linux",
       "arch": "amd64",
-      "url": "https://github.com/vdice/test-plugin/releases/download/plugin/v0.1.0-test/print-version-0.1.0-linux-amd64.tar.gz",
-      "sha256": "86919f5aba781abf3bb15c5b1c3005df2b6994e3f49ddbc1fc71ce253183fd30"
+      "url": "https://s3.amazonaws.com/vdice-plugin-bucket/plugin/print-version-0.1.0-linux-amd64.tar.gz",
+      "sha256": "f544498a253636d3d5252624a3959c4f811f5c2f977098d87bd0712e492fe50a"
     },
     {
       "os": "linux",
       "arch": "aarch64",
-      "url": "https://github.com/vdice/test-plugin/releases/download/plugin/v0.1.0-test/print-version-0.1.0-linux-aarch64.tar.gz",
-      "sha256": "d80fe8cfded66043fbf920f0120e405a1d1246feeaa6ace521b890875e361891"
+      "url": "https://s3.amazonaws.com/vdice-plugin-bucket/plugin/print-version-0.1.0-linux-aarch64.tar.gz",
+      "sha256": "9d71c64008e1871a310a24a317ede305cb32555f37ca8536fe8a954c94145f45"
     },
     {
       "os": "macos",
       "arch": "aarch64",
-      "url": "https://github.com/vdice/test-plugin/releases/download/plugin/v0.1.0-test/print-version-0.1.0-macos-aarch64.tar.gz",
-      "sha256": "3715c03c42965be0ab7dc903c7a43f0f602ae6a364d2aa8505a89bae9d6f36b4"
+      "url": "https://s3.amazonaws.com/vdice-plugin-bucket/plugin/print-version-0.1.0-macos-aarch64.tar.gz",
+      "sha256": "31caf227f3f270779fc03b75e7c603ab023dfc83386fe41ba9cb46ca6dc7dce4"
     },
     {
       "os": "macos",
       "arch": "amd64",
-      "url": "https://github.com/vdice/test-plugin/releases/download/plugin/v0.1.0-test/print-version-0.1.0-macos-amd64.tar.gz",
-      "sha256": "c187abd9453fa36ee9667cfa2cc86b3cc8c55a3cc47f830ea4e70cc70a13d0a5"
+      "url": "https://s3.amazonaws.com/vdice-plugin-bucket/plugin/print-version-0.1.0-macos-amd64.tar.gz",
+      "sha256": "500020082956f8cd3522a8beee2447913b2aba5c4fc5d36985982cf86f33ca09"
     },
     {
       "os": "windows",
       "arch": "amd64",
-      "url": "https://github.com/vdice/test-plugin/releases/download/plugin/v0.1.0-test/print-version-0.1.0-windows-amd64.tar.gz",
-      "sha256": "5ef8d6e0ace84805847e212ad9d3927d92ff9ad08ad19d412a5151698b616dbb"
+      "url": "https://s3.amazonaws.com/vdice-plugin-bucket/plugin/print-version-0.1.0-windows-amd64.tar.gz",
+      "sha256": "af4a8bbd4b022718e7a8e0002b2b67dd0d6aa132e91f72cd57f018085514c6dc"
     }
   ]
 }
